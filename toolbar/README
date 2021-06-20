@@ -1,0 +1,17 @@
+
+ui-toolbar
+
+Properties
+  autohide
+  position
+  
+Methods
+  
+  
+Events
+  autohide
+  create
+  hide
+  position
+  show
+
