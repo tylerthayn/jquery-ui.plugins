@@ -1,0 +1,7 @@
+.ui-toolbar-container{position:fixed;left:0;width:100%;min-height:15%;}
+.ui-toolbar-container.bottom {bottom: 0px;}
+.ui-toolbar-container.top {top: 0px;}
+.ui-toolbar{position:fixed;left:0;transition:.6s;width:100%;min-height:50px}
+.ui-toolbar.bottom {bottom:0;}
+.ui-toolbar.top {top:0;}
+.ui-toolbar.hidden {height: 0px;min-height: 0px;}
